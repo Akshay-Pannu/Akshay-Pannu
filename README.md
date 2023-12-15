@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Akshay-Pannu
-- 👀 I’m interested in Wb development
-- 🌱 I’m currently learning Jave script
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java Script
 - 📫 Contact:- akshaypannu139@gmail.com
 
 <!---
